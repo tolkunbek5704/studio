@@ -1,0 +1,254 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #FFFFFF;
+    background-size: cover;
+}
+.hero {
+    display: flex;
+    justify-content: space-between;
+}
+.main-a {
+    display: flex;
+}
+.header {
+    margin: 20px;
+}
+.btn-Maruss h1 {
+    color: #f5f0f0;
+    display: flex;
+    font-size: 28px;
+}
+.hero {
+    border: 2px solid #6c14d0;
+    width: 1281px;
+    height: 65px;
+    background: #bebeea;
+    box-shadow: 0 2px 8px rgba(40, 40, 40, 0.1);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+}
+.btn-in {
+    display: flex;
+    font-size: 28px;
+    margin: 5px 10px;
+}
+.btn-in a {
+    margin: 5px 5px 01px;
+    color: #171733;
+}
+.main-ion{
+    display: flex;
+}
+#header {
+    margin: 40px;
+}
+.btn___n h1 {
+    margin:  55px;
+}
+.btn___n h3{
+    margin: 15px;
+}
+.img {
+    width: 90px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.blok {
+    width: 100px;
+    height: 100px;
+    color: #934d4d;
+}
+.blok {
+    width: 50px;
+    height: 50px;
+    color: #f6e5e5;
+}
+.hero-blok {
+    width: 428px;
+    height: 762px;
+    background: #bebeea;
+    border: 3px solid #d74997;
+    border-radius: 20px 20px;
+    margin: 0 0 0 15px;
+}
+.hero-vlada img {
+    width: 405px;
+    height: 538px;
+    margin: 10px 10px 0;
+    border-radius: 10px 10px;
+}
+.hero-teks {
+    padding: 20px;
+}
+.marus-block{
+    display: flex;
+    flex-wrap: wrap;
+}
+.hero-img img {
+    width: 450px;
+    height: 450px;
+    padding: 5px;
+    border-radius: 25px 25px;
+    margin: 0;
+}
+.vlada-heroo video {
+    width: 100px
+}
+.btn-wil a {
+    padding: 5px;
+    font-size: 30px;
+    margin: 15px;
+}
+.btn-wil {
+    display: flex;
+    align-items: center;
+}
+.footer-blok {
+    width: 1339px;
+    height: 50px;
+    top: 763px;
+    background: #252C34;
+}
+.footer-blok p {
+    color: #FFFFFF;
+}
+.booluk h1 {
+    color: #f5f0f0;
+}
+.vlada-heroo {
+    margin: 10px 125px;
+}
+.hero-at {
+    padding: 20px;
+    font-size: 20px;
+}
+.hero-at {
+    color: #f5f0f0;
+    font-size: 29px;
+}
+.vlada-heroo video {
+    width: 400px;
+    height: 400px;
+}
+.hero-teks {
+    color: black;
+}
+.main {
+    margin: 40px 0 40px;
+}
+.main-blok h1 {
+    color: #f5f0f0;
+    margin: 0 10px;
+}
+.fulfilment-teks {
+    color: #f5f0f0;
+}
+.fulfilment-a {
+    padding: 20px;
+    font-size: 20px;
+    color: #f5f0f0;
+}
+.fulfilment-teks {
+    width: 500px;
+    height: 400px;
+    border-radius: 30px;
+    background: linear-gradient(to right, #c72092, #6c14d0);
+    border: 3px solid #6c14d0;
+}
+.fulfilment-teks h3{
+    margin: 5px;
+}
+.btn___n {
+    width: 450px;
+    height: 400px;
+    padding: 10px;
+    border-radius: 40px;
+    background: linear-gradient(to right, #c72092, #6c14d0);
+    border: 3px solid #6c14d0;
+}
+.fulfilment-a {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #f5f0f0;
+}
+.main-te {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-te img {
+}
+.btn___n {
+    color: #FFFFFF;
+}
+.hero-blok {
+    color: #FFFFFF;
+}
+.btn-Maruss h1 {
+    color: #c72092;
+    margin: 5px 0;
+    font-size: 28px;
+
+}
+.btn-Maruss h1 span {
+    color: #6c14d0;
+    text-decoration: underline;
+}
+.main-a a {
+    display: inline-block;
+    margin: 5px 15px;
+    color: black;
+    text-decoration: none;
+    transition: 0.2s;
+    font-size: 19px;
+}
+.main-a a:hover {
+    color: #c72092;
+}
+.hero-teks a button {
+    padding: 10px 20px;
+    background: linear-gradient(to right, #c72092, #6c14d0);
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 25px;
+    width: 145px;
+    height: 40px;
+    border: none;
+    font-size: 18px;
+}
+.hero-teks p {
+    margin: 5px;
+}
+.hero-teks h3 {
+    margin: 10px;
+}
+.vain {
+    display: flex;
+    position: absolute;
+}
+.main-blok img {
+    color: #c72092;
+    width: 190px;
+}
+.btn___n h1 {
+    margin: 0;
+}
+.modo img {
+    border-radius: 5px 5px;
+}

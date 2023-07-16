@@ -1,0 +1,29 @@
+@media (max-width: 1200px){
+
+}
+@media (max-width: 1024px) {
+    .btn-Maruss{
+        width: 100px;
+        height: 100px;
+    }
+    .main-a{
+        width: 100px;
+        height: 100px;
+    }
+    .fulfilment-img{
+        width: 400px;
+        height: 350px;
+    }
+    .fulfilment-teks
+    {
+        width:  446px;
+        height: 341px;
+    }
+    .fulfilment-teks-n h1{
+        font-size: 15px;
+    }
+    .main-te{
+        width: 100px;
+        height: 100px;
+    }
+}
